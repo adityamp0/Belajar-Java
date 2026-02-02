@@ -4,5 +4,6 @@ public class Variable {
         name = "Aditya Maulana Pamungkas";
 
         System.out.println(name);
+        System.out.println(name + "4IA19");
     }
 }
